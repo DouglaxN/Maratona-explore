@@ -1,2 +1,2 @@
-# Maratona-explore
-Desenvolvimento de plataforma de links para o instagram
+# Maratona-explorer
+Maratona para o desenvolvimento de uma plataforma de links para o Instagram
